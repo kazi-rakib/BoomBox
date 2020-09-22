@@ -12,3 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
+/app/src/androidTest/java/com/kazi/rakib/boombox/ExampleInstrumentedTest.java
+/app/src/test/java/com/kazi/rakib/boombox/ExampleUnitTest.java
